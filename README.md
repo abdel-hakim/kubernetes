@@ -1,4 +1,4 @@
-![CircleCI](https://circleci.com/gh/circleci/kubernetes.svg?style=svg)
+![CircleCI](https://circleci.com/gh/circleci/kubernetes.svg?style=svg)]
 
 # Kubernetes
 This project describes basic usage of Kubernetes
