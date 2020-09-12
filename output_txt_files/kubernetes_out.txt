@@ -1,1 +1,23 @@
-<paste log output from Kubernetes-mediated prediction, here>
+NAMESPACE     NAME                               READY   STATUS    RESTARTS   AGE
+default       devops-ml-prediction               1/1     Running   0          33m
+kube-system   coredns-f9fd979d6-ljczw            1/1     Running   0          34m
+kube-system   etcd-minikube                      1/1     Running   0          35m
+kube-system   kube-apiserver-minikube            1/1     Running   0          35m
+kube-system   kube-controller-manager-minikube   1/1     Running   0          35m
+kube-system   kube-proxy-pncmq                   1/1     Running   0          34m
+kube-system   kube-scheduler-minikube            1/1     Running   0          35m
+kube-system   storage-provisioner                1/1     Running   0          35m
+
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+
+Shell script ran: ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
