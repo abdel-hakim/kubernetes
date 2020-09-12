@@ -1,4 +1,4 @@
-![CircleCI](https://app.circleci.com/pipelines/github/nehashivhare/kubernetes/5/workflows/b1845d4f-bfa8-4449-9d5a-b3f5bc63654c/jobs/5)
+![CircleCI](https://circleci.com/gh/circleci/kubernetes.svg?style=svg)
 
 # Kubernetes
 This project describes basic usage of Kubernetes
