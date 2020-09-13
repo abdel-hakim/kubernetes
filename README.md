@@ -1,4 +1,4 @@
-![CircleCI](https://circleci.com/gh/nehashivhare/kubernetes/tree/circleci-project-setup.svg?style=svg)
+![CircleCI](https://circleci.com/gh/nehashivhare/kubernetes/tree/master.svg?style=svg)
 
 # Kubernetes
 This project describes basic usage of Kubernetes
