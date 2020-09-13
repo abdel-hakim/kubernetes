@@ -17,4 +17,4 @@ kubectl get pods --all-namespaces
 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward pod/devops-all-prediction 8080:80
+kubectl port-forward pod/devops-ml-prediction 8000:80
